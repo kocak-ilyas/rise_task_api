@@ -4,8 +4,7 @@
   "description": "Rise Task Api",
   "main": "index.js",
   "scripts": {
-    "start": "clear && npx nodemon index.js",
-    "build": "./node_modules/.bin/netlify-lambda build index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,8 +19,6 @@
   },
   "homepage": "https://github.com/kocak-ilyas/rise_task_api#readme",
   "dependencies": {
-    "express": "^4.18.1",
-    "netlify-lambda": "^2.0.15",
-    "nodemon": "^2.0.19"
+    "express": "^4.18.1"
   }
 }
