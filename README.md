@@ -11,7 +11,7 @@
 <br/>
 
 <h6>Repo                : https://github.com/kocak-ilyas/rise_task_api.git</h6>
-<h6>Demo                : https://rise_task_api.netlify.app/</h6>
+<h6>Demo                : https://risetaskapi.netlify.app/</h6>
 <hr/>
 <h6>Linkedin            : https://www.linkedin.com/in/ilyaskocak</h6>
 <h6>Gmail               : kocakilyas18@gmail.com </h6>
