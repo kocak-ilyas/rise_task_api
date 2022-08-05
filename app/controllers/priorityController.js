@@ -1,7 +1,7 @@
 module.exports = {
   index: async (req, res) => {
     try {
-      const priorityData = ["Acil", "Önemli", "Normal"];
+      const priorityData = ["Trivial", "Regular", "Urgent"];
       res.send({ error: false, priorityData });
     } catch (err) {
       console.log(`Error: `, err);
